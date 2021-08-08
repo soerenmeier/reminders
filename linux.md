@@ -34,3 +34,9 @@ Now clone the drive:
 ```
 dd if=/dev/cdrom of=<iso location> bs=<block size> count=<volume size> status=progress
 ```
+
+## Update $PATH
+Edit the file `~/.profile`
+```
+export PATH="$PATH:/path
+```
