@@ -40,3 +40,6 @@ Edit the file `~/.profile`
 ```
 export PATH="$PATH:/path
 ```
+## Languages
+Update `/etc/locale.gen` 
+`sudo locale-gen`
