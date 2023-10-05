@@ -43,3 +43,6 @@ export PATH="$PATH:/path
 ## Languages
 Update `/etc/locale.gen` 
 `sudo locale-gen`
+
+## Backup
+https://rgarth.github.io/2017/10/29/Grive-and-Duplicity/
